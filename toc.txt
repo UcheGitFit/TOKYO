@@ -3,3 +3,7 @@ TABLE OF CONTENT
 Creating Snapshots
   - Initializing a repository
   - Staging changes
+
+
+  MAKE CHANGE BEFORE PUSH
+  
